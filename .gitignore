@@ -48,6 +48,7 @@ appsettings.Development.json
 appsettings.Local.json
 appsettings.Production.json
 secrets.json
+appsettings.json
 
 # Entity Framework migrations (if using EF Core)
 Migrations/
