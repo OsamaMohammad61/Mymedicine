@@ -1,0 +1,62 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vsp
+*.sln.ide
+
+# Logs and crash reports
+*.log
+*.tlog
+*.pdb
+
+# Visual Studio specific
+.vs/
+*.vscode/
+
+# Rider and JetBrains IDEs
+.idea/
+*.sln.iml
+
+# NuGet packages
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# Temporary and cache files
+*.cache
+*.tmp
+*.pid
+*.gz
+*.zip
+*.tar
+
+# Deployment related
+publish/
+app.publish/
+
+
+# Environment configuration
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Production.json
+secrets.json
+
+# Entity Framework migrations (if using EF Core)
+Migrations/
+
+
+# Dotnet CLI
+*.dotnetwatch.json
+*.dotnettools/
+*.vsconfig
+
+# SDK-specific cache files
+.sdkman/
